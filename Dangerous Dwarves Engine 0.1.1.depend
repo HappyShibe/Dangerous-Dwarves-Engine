@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\camera.h
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\mesh.h
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\shader.h
+
+1477199040 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\texture.h
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\transform.h
+
+1477199040 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\mesh.cpp
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\shader.cpp
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\texture.cpp
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468743252 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468739652 source:c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1468739652 source:c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468739652 c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+

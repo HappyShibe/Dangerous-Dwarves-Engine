@@ -1,0 +1,417 @@
+# depslib dependency file v1.0
+1469325188 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\display.cpp
+
+1476229219 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\mesh.cpp
+	"Mesh.h"
+
+1475039175 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\shader.cpp
+	"Shader.h"
+	<fstream>
+	<iostream>
+
+1470553450 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\texture.cpp
+	<texture.h>
+	<stb_image.h>
+	<cassert>
+	<iostream>
+
+1474095744 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\transform.cpp
+	"Transform.h"
+
+1476224653 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\dangerous dwarves engine\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+	"Shader.h"
+	"texture.h"
+	"Transform.h"
+	"Camera.h"
+	"Node1.h"
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\opengl libraries\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1474939346 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\model.cpp
+	"Model.h"
+
+1475020897 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1476229218 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\mesh.h
+
+1475297992 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\model.h
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1474938366 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\shader.h
+	<string>
+	<GL/glew.h>
+	"Transform.h"
+	"Camera.h"
+
+1474510282 c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\transform.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1475020897 c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1475473263 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\texture.h
+	<string>
+	<GL/glew.h>
+
+1474510282 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\transform.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1475886520 source:c:\users\malcolm donaldson\appdata\local\temp\temp1_mesh.zip\mesh.cpp
+	"Mesh.h"
+	"assimp\Importer.hpp"
+	"assimp\postprocess.h"
+
+1475886508 c:\users\malcolm donaldson\appdata\local\temp\temp1_mesh.zip\mesh.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"assimp\scene.h"
+	"assimp\mesh.h"
+	<vector>
+
+1475021065 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\mesh simple.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1476144437 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\mesh.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"assimp\scene.h"
+	"assimp\mesh.h"
+
+1476144743 source:c:\users\malcolm donaldson\desktop\rendering engine\include\object.h
+
+1476222870 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\object.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1476223823 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\include\node1.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\opengl libraries\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468743252 c:\users\malcolm donaldson\desktop\rendering engine\opengl libraries\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1476224182 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer\src\node1.cpp
+	"Node1.h"
+	<vector>
+
+1492135385 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<cmath>
+	<Shader.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1477198570 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\mesh.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1485675138 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\shader.h
+
+1474510282 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\transform.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1475020897 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1475473263 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\texture.h
+	<string>
+	<GL/glew.h>
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\camera.h
+
+1476223823 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\node1.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1476827355 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\object.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"assimp\scene.h"
+	"assimp\mesh.h"
+	<vector>
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\shader.h
+
+1477199040 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\texture.h
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\transform.h
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\mesh.h
+
+1476222870 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\node.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
+1477199040 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\mesh.cpp
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\shader.cpp
+
+1477199041 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\texture.cpp
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1444688598 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\glfw3.dll
+
+1468743252 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468743252 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1477164535 source:c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\src\object.cpp
+	"Object.h"
+	<GL/glew.h>
+	"assimp\Importer.hpp"
+	"assimp\postprocess.h"
+
+1476827355 c:\users\malcolm donaldson\desktop\rendering engine\renderer v\archive\dangerous dwarves engine\include\object.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"assimp\scene.h"
+	"assimp\mesh.h"
+	<vector>
+
+1493593707 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer v\archive\dangerous dwarves engine\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<cmath>
+	<Shader.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1485675138 c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer v\archive\dangerous dwarves engine\include\shader.h
+
+1468743252 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1468743252 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468743252 c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer v\archive\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1500868722 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer\dangerous dwarves engine\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<string>
+	<cmath>
+	<Shader.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1485675138 c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer\dangerous dwarves engine\include\shader.h
+
+1468743252 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1468743252 source:c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468743252 c:\users\malcolm donaldson\desktop\dangerous dwarves engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468739652 source:c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+
+1468739652 source:c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1468739652 c:\dangerous_dwarves_engine\renderer\dangerous dwarves engine\stb image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
